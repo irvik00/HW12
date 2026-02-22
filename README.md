@@ -23,7 +23,7 @@
 
 ## 📂 Структура репозитория
 
-
+```
 ├── analyzer.py
 ├── many_interfaces.pcapng
 ├── results/
@@ -31,7 +31,7 @@
 │ ├── ip_connections.csv
 │ └── protocol_distribution.png
 └── README.md
-
+```
 
 ---
 
